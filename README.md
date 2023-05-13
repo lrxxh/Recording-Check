@@ -3,7 +3,7 @@ This is a recording check script that checks if the user is currently running an
 
 # Want to compile the src to an .exe yourself?
 
-1. Download AltChecker.py and put it in a new folder.
+1. Download RecordinCheck.py and put it in a new folder.
 
 2. After that, in the same CMD type
 ```pip install termcolor```
