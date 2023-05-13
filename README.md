@@ -8,10 +8,13 @@ This is a recording check script that checks if the user is currently running an
 2. After that, in the same CMD type
 ```pip install termcolor```
 
-3. In the same cmd, do
+3. After that, in the same CMD type
+```pip install pyinstaller```
+
+4. In the same CMD, do
 ```pyinstaller RecordinCheck.py --onefile```
 
-4. Now you should have multiple folders generated. Click on **Dist**, and inside there should be the .exe.
+5. Now you should have multiple folders generated. Click on **Dist**, and inside there should be the .exe.
 
 
 # Notes!
